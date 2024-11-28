@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1732710849390
+Bundle-ManifestVersion: 2
+Bundle-Name: agastya
+Bundle-SymbolicName: agastya
+Bundle-Version: 0
+Created-By: 21.0.2 (Eclipse Adoptium)
+Import-Package: io.cucumber.datatable,io.cucumber.java,io.cucumber.jav
+ a.en,java.io,java.lang,java.lang.invoke,java.time,java.util,java.util
+ .function,org.openqa.selenium,org.openqa.selenium.chrome,org.openqa.s
+ elenium.firefox,org.openqa.selenium.remote,org.openqa.selenium.suppor
+ t,org.openqa.selenium.support.ui,org.testng.annotations
+Private-Package: com.agastya.base,com.agastya.config,com.agastya.const
+ ants,com.agastya.locaters,com.agastya.pages,com.agastya.stepDefinatio
+ n,com.agastya.utility
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=11))"
+Tool: Bnd-7.0.0.202310060912
+

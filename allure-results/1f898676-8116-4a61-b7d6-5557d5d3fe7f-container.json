@@ -1,0 +1,1 @@
+{"uuid":"1f898676-8116-4a61-b7d6-5557d5d3fe7f","name":"com.agastya.base.TestBase.setUp","children":["94e93550-b09b-4370-94b5-d3923b0cf94a"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1720878686831,"stop":1720878710921}],"afters":[],"start":1720878686830,"stop":1720878710922}
